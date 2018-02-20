@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backjack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fat23cat/nodejs-hw1.git"
+  },
+  "author": "Pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fat23cat/nodejs-hw1/issues"
+  },
+  "homepage": "https://github.com/fat23cat/nodejs-hw1#readme"
+}
